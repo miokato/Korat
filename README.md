@@ -1,4 +1,4 @@
-コラット
+Korat
 ====
 
 ## Description
